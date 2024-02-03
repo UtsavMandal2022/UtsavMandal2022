@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavmandal2022&label=Profile%20views&color=0e75b6&style=flat" alt="utsavmandal2022" /> </p>
 
-- 🏫 Third year UG student at IIT Kharagpur.
+- 🏫 Third year UG student at **IIT Kharagpur**.
 
 - 🌱 I’m currently learning **DevOps**.
 
