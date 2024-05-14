@@ -6,7 +6,7 @@
 
 - 🏫 Third year UG student at **IIT Kharagpur**.
 
-- 🌱 I’m currently learning **DevOps**.
+- 🌱 I’m currently learning **Deep Learning**.
 
 - 💬 Ask me about **React, Django** and **Node**.
 
