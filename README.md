@@ -5,7 +5,7 @@
 
 - SWE at **Mercari**, Tokyo 🗼
 
-- 🏫 B.Tech in **EE** with a minor in **CS** and micro in **AI** from **IIT Kharagpur**.
+- 🏫 B.Tech in **EE** with a minor in **CS** and micro in **AI** from **IIT Kharagpur**
 
 - 📫 Email: **utsav2016mandal@gmail.com**
 
