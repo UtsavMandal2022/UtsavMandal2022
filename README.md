@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavmandal2022&label=Profile%20views&color=0e75b6&style=flat" alt="utsavmandal2022" /> </p>
 
-- 🏫 Fourth year UG student at **IIT Kharagpur**.
+- SWE at Mercari, Tokyo 🗼
 
-- 🌱 I’m currently learning **Deep Learning**.
+- 🏫 B.Tech in Electrical Engineering with a minor in CS and micro in AI from **IIT Kharagpur**.
 
-- 💬 Ask me about **Go, **React, Django** and **Node**.
-
-- 📫 How to reach me: **utsav2016mandal@gmail.com**
+- 📫 Email: **utsav2016mandal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
