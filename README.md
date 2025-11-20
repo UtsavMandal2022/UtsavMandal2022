@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Utsav Mandal</h1>
-<h3 align="center">A passionate fullstack developer and a competitive programming enthusiast.</h3>
+<h3 align="center">Make it work. Make it right. Make it fast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavmandal2022&label=Profile%20views&color=0e75b6&style=flat" alt="utsavmandal2022" /> </p>
 
