@@ -1,4 +1,15 @@
-# Utsav Mandal
+```
+  ╔═══════════════════════════════════════════════════════════╗
+  ║                                                           ║
+  ║     █    █ ▀▀█▀▀ █▀▀▀ █▀▀█ █  █                          ║
+  ║     █    █   █   ▀▀▀█ █▄▄█ █  █                          ║
+  ║     ▀▀▀▀▀   ▀   ▀▀▀▀ ▀  ▀  ▀▀                           ║
+  ║                          █▀▄▀█ █▀▀█ █▀▀▄ █▀▀▄ █▀▀█ █    ║
+  ║                          █ █ █ █▄▄█ █  █ █  █ █▄▄█ █    ║
+  ║                          █   █ ▀  ▀ ▀  ▀ ▀▀▀  ▀  ▀ ▀▀▀  ║
+  ║                                                           ║
+  ╚═══════════════════════════════════════════════════════════╝
+```
 
 **Software Engineer** @ Mercari, Tokyo
 
@@ -16,6 +27,10 @@ My interests sit at the intersection of **algorithms**, **systems design**, and 
 ### Background
 
 - **B.Tech** in Electrical Engineering, Minor in CS, Micro-specialization in AI -- **IIT Kharagpur**
+
+### Check out
+
+- **[zsh-sage](https://github.com/UtsavMandal2022/zsh-sage)** -- a command-line tool I built. Give it a spin and let me know what you think.
 
 ### Get in touch
 
