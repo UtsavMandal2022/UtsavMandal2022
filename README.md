@@ -15,7 +15,7 @@
 
 I build things that need to be fast, correct, and scalable.
 
-My interests sit at the intersection of **algorithms**, **systems design**, and **high-performance computing** -- the kind of problems where the difference between a good and great solution is measured in microseconds. I'm drawn to latency-sensitive systems, distributed architectures, and anything where deep algorithmic thinking directly translates to real-world impact.
+My interests sit at the intersection of **algorithms**, **systems design**, and **high-performance computing**, the kind of problems where the difference between a good and great solution is measured in microseconds. I'm drawn to latency-sensitive systems, distributed architectures, and anything where deep algorithmic thinking directly translates to real-world impact.
 
 ### What I care about
 
@@ -26,11 +26,11 @@ My interests sit at the intersection of **algorithms**, **systems design**, and 
 
 ### Background
 
-- **B.Tech** in Electrical Engineering, Minor in CS, Micro-specialization in AI -- **IIT Kharagpur**
+- **B.Tech** in Electrical Engineering, Minor in CS, Micro-specialization in AI, **IIT Kharagpur**
 
 ### Check out
 
-- **[zsh-sage](https://github.com/UtsavMandal2022/zsh-sage)** -- a command-line tool I built. Give it a spin and let me know what you think.
+- **[zsh-sage](https://github.com/UtsavMandal2022/zsh-sage)**, a command-line tool I built. Give it a spin and drop a star if you liked it!
 
 ### Get in touch
 
