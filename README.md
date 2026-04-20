@@ -24,7 +24,4 @@ My interests sit at the intersection of **algorithms**, **systems design**, and 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UtsavMandal2022&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtsavMandal2022&layout=compact&hide_border=true" height="165" />
-</p>
+*Make it work. Make it right. Make it fast.*
