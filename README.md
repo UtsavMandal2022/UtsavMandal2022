@@ -31,6 +31,7 @@ My interests sit at the intersection of **algorithms**, **systems design**, and 
 ### Check out
 
 - **[zsh-sage](https://github.com/UtsavMandal2022/zsh-sage)**, a command-line tool I built. Give it a spin and drop a star if you liked it!
+- **[dramatic_subtitles](https://github.com/UtsavMandal2022/dramatic_subtitles)**, dramatic subtitles extension for your Netflix.
 - **[claude_history_search](https://github.com/UtsavMandal2022/claude_history_search)**, tool to better search through your past sessions conversation with claude code.
 
 ### Get in touch
